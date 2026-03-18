@@ -1,5 +1,5 @@
 ## 📌 Submission Details
-- Name: Pratyaksh Gowda
+- Name: Pratyaksh Gowda L
 - CID: FIT/FEB26/FS11710
 - Project: Mini CRM (Client Lead Management System)
 
